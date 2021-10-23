@@ -1,0 +1,7 @@
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\calculo inss\calculo inss\bin\Debug\calculo inss.exe.config
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\calculo inss\calculo inss\bin\Debug\calculo inss.exe
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\calculo inss\calculo inss\bin\Debug\calculo inss.pdb
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\calculo inss\calculo inss\obj\Debug\calculo inss.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\calculo inss\calculo inss\obj\Debug\calculo inss.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\calculo inss\calculo inss\obj\Debug\calculo inss.exe
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\calculo inss\calculo inss\obj\Debug\calculo inss.pdb

@@ -1,0 +1,20 @@
+C:\Users\Pichau\source\repos\Form_calcu\Form_calcu\obj\Debug\Form_calcu.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\Form_calcu\Form_calcu\obj\Debug\Form_calcu.Form1.resources
+C:\Users\Pichau\source\repos\Form_calcu\Form_calcu\obj\Debug\Form_calcu.Properties.Resources.resources
+C:\Users\Pichau\source\repos\Form_calcu\Form_calcu\obj\Debug\Form_calcu.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\Form_calcu\Form_calcu\obj\Debug\Form_calcu.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Form_calcu\Form_calcu\bin\Debug\Form_calcu.exe.config
+C:\Users\Pichau\source\repos\Form_calcu\Form_calcu\bin\Debug\Form_calcu.exe
+C:\Users\Pichau\source\repos\Form_calcu\Form_calcu\bin\Debug\Form_calcu.pdb
+C:\Users\Pichau\source\repos\Form_calcu\Form_calcu\obj\Debug\Form_calcu.exe
+C:\Users\Pichau\source\repos\Form_calcu\Form_calcu\obj\Debug\Form_calcu.pdb
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\Form_calcu\Form_calcu\bin\Debug\Form_calcu.exe.config
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\Form_calcu\Form_calcu\bin\Debug\Form_calcu.exe
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\Form_calcu\Form_calcu\bin\Debug\Form_calcu.pdb
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\Form_calcu\Form_calcu\obj\Debug\Form_calcu.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\Form_calcu\Form_calcu\obj\Debug\Form_calcu.Form1.resources
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\Form_calcu\Form_calcu\obj\Debug\Form_calcu.Properties.Resources.resources
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\Form_calcu\Form_calcu\obj\Debug\Form_calcu.csproj.GenerateResource.cache
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\Form_calcu\Form_calcu\obj\Debug\Form_calcu.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\Form_calcu\Form_calcu\obj\Debug\Form_calcu.exe
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\Exercicios C#\Form_calcu\Form_calcu\obj\Debug\Form_calcu.pdb

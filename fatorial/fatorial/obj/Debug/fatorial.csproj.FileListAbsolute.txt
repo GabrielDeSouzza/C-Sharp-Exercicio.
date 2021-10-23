@@ -1,0 +1,6 @@
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\fatorial\fatorial\bin\Debug\fatorial.exe.config
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\fatorial\fatorial\bin\Debug\fatorial.exe
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\fatorial\fatorial\bin\Debug\fatorial.pdb
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\fatorial\fatorial\obj\Debug\fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\fatorial\fatorial\obj\Debug\fatorial.exe
+C:\Users\Pichau\Documents\faculdade\2°Semestre\Linguagem de Programação\fatorial\fatorial\obj\Debug\fatorial.pdb
